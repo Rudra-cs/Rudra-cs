@@ -17,7 +17,7 @@ I'm Rudra Behera, sophomore student at SIT, Bhubaneswar. I'm an Android & Web De
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and online games
 
-## <br />
+---
 
 ### Languages and Tools:
 
@@ -38,7 +38,7 @@ I'm Rudra Behera, sophomore student at SIT, Bhubaneswar. I'm an Android & Web De
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Rudra's GitHub Stats" src="https://github-readme-stats.rudra-cs.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Rudra's GitHub Stats" src="https://github-readme-stats.rudra-cs.vercel.app/api?username=Rudra-cs&show_icons=true&hide_border=true" />
 
 </details>
 
