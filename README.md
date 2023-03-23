@@ -14,7 +14,7 @@ I'm Rudra Behera, sophomore student at SIT, Bhubaneswar. I'm an Android & Web De
 - 🔭 I’m currently working on something cool 😉!
 - 🌱 I’m currently learning MERN stack💻
 - 🌎 I’m looking forward to travel more this year
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and online games
 
 ---
