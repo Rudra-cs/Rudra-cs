@@ -5,16 +5,16 @@
 [<img align="left" alt="Rudra-cs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rudra-cs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-I'm Rudra Behera, sophomore student at SIT, Bhubaneswar. I'm an Android & Web Developer and very interested in learning new tech stacks.Beside's programming, I enjoy eating food and traveling.
+I'm Rudra Behera, Software Engineer, Bhubaneswar. I'm an Android & Web Developer and very interested in learning new tech stacks.Beside's programming, I enjoy eating food and traveling.
 
 <img align="right" alt="GIF" src="https://github.com/Rudra-cs/Rudra-cs/blob/master/coding.gif?raw=true" width="500" height="320" />
 
-## I'm a Student, Developer and a Traveller!!
+## I'm a Player, Developer and a Traveller!!
 
 - 🔭 I’m currently working on something cool 😉!
 - 🌱 I’m currently learning MERN stack💻
 - 🌎 I’m looking forward to travel more this year
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and online games
 
 ---
@@ -43,7 +43,6 @@ I'm Rudra Behera, sophomore student at SIT, Bhubaneswar. I'm an Android & Web De
 
 </details>
 
-[website]: https://discord.gg/Q343raCDkx
 [twitter]: https://twitter.com/RudraBehera2
 [instagram]: https://www.instagram.com/rudra_ooo7/
 [linkedin]: https://linkedin.com/in/rudrabehera
