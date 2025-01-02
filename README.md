@@ -13,7 +13,7 @@ I'm Rudra Behera, Software Engineer, Bhubaneswar. I'm an Android & Web Developer
 - 🔭 I’m currently working on something cool 😉!
 - 🌱 I’m currently learning MERN stack💻
 - 🌎 I’m looking forward to travel more this year
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and online games
 
 ---
